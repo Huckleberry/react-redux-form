@@ -6,7 +6,6 @@
   "typings": "react-redux-form.d.ts",
   "scripts": {
     "start": "npm run build",
-    "install": "npm run build",
     "examples": "NODE_ENV=development node examples/server.js",
     "lint": "eslint --ext .js,.jsx .",
     "lint:fix": "eslint --fix --ext .js,.jsx .",
